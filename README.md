@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Karahestranho
-- 👀 I’m interested in learning the basics.
-- 🌱 I’m currently learning HTML.
-- 📫 You can reach me at angelo.r.batista@gmail.com
-- 
+- 👀 I’m interested in learning the basics, you know, WEB for the starters.
+- 🌱 I’m currently learning HTML + CSS.
+- 📫 You don't really have reasons to reach me at angelo.r.batista@gmail.com
